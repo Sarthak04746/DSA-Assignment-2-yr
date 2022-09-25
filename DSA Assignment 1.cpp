@@ -142,3 +142,7 @@ int main()
 
     return 0;
 }
+/*BONUS QUESTION
+Q.Try to find a way to link the family members' doubly-linked list based on their relationship.
+Ans.One way to link the family members doubly-linked list is by sorting the doubly linked list according to age in decending order.By doing so we will get a doubly linked list in which older generation people will be close to head in double linked list and new generation people will be close to tail in doubly linked list.
+*/
